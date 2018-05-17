@@ -2,7 +2,7 @@
 
 ## Dev, Build and Test
 
-changed bundle
+changed bundle changed
 
 
 ## Resources
